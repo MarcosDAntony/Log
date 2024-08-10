@@ -1,0 +1,17 @@
+CEFET/RJ - CAMPUS PETRÓPOLIS
+GRADUAÇÃO EM <img src="../../../eng-de-comp-emoji.png" width="100px" height="100px"> <img src="../../../eng-de-comp-emoji.png" width="100px" height="100px"> Eng. de Computação
+GCOM1001PE - Introdução à Engenharia
+PROF. RAFAEL SARAIVA CAMPOS
+SEMESTRE 2023/1 
+
+1) Escreva uma função que imprima as primeiras N linhas do triângulo de Pascal.
+
+2) Seja uma série definida por P(1)=p0 e P(i) = a*P(i-1)*(1-P(i-1)), para i=2,...,N. Escreva um script que plote, na mesma figura, os gráficos da série para P0=0.2 e P0=0.29, ambos assumindo a = 3.9 e N=15.
+
+3) Escreva uma função chamada myFunc3 que recebe um número inteiro positivo e retorna 2 se o número for perfeito, 1 se for primo, e 0 caso não seja primo ou perfeito. Caso o parâmetro passado para a função seja inválido (por exemplo, myFunc3(-10) ou myFunc3(4.5)), a função deverá retornar -1. 
+
+4) Escreva uma função chamada myFunc4 que recebe um vetor de números reais e retorna a média aritmética e a média geométrica.
+
+5) Escreva um script que plote 3 vetores que partem da origem e vão até os pontos (xi,yi), com i=1,2,3. As coordenadas dos pontos deverão ser informadas pelo usuário.
+
+

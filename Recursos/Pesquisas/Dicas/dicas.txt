@@ -1,0 +1,48 @@
+ Descobri wi-fi (Tradição Mineira na altura da Rua do Imperador 148)
+
+ Framework da W3Schools e Bootstrap não são compativéis um com o outro.
+
+ Use este comando no CMD Windows para descobrir a chave de ativação do product key "wmic path softwareLicensingService get OA3xOriginalProductKey"
+
+ FiveServer funcionou bem para abrir o site do daily7 pelo codespaces
+
+ Para abrir um [localhost](http://localhost) por mobile coloque em algum navegador o 
+
+  ip-de-transmissão-local-ipv4:5500/index.html. 
+
+ Ctrl + Win + Shift + Alt no windows 10/11 permite usar de graça o pacote Office. 
+
+ Fn + F para alterar o desempenho do notebook novo! 
+
+ Fazer conversão de arquivos para outros faça no [ILovePDF](https://www.ilovepdf.com/pt) 
+
+ Para instalar qualquer sistema operacional use o Ventoy em um pendrive e depois coloque nele a .ISO desejada e pronto. 
+
+ Quer aprender como usar os comandos Git de forma prática vá pra o [site Learning Git Branching](https://learngitbranching.js.org/?locale=pt_BR). 
+
+ Aprenda de forma interativa graficamente algoritmos no [Scracth](https://scratch.mit.edu). 
+
+ Site para criar Designs com a I.A o [Microsoft Designer](https://designer.microsoft.com). 
+
+ Para guardar imagens use o [Imgur](https://imgur.com/). 
+
+ Melhorar imagens no [ILoveIMG](https://www.iloveimg.com/pt/download/wxj3clbjy8l9yflkwdptvrtq0rmjtwnh9dkgfyz3pc3h20c9nn48f7zy6ks7tjwgd7wgh9px3j431Avzt6Aqytqbcl066fhqtthcldg0m4tfnAp6hnymtn72p1vvqp4p8vvyb8blv3Aht975f48dzm5kbhygq6b1bgt45p76lrk1n7d7m9kq/11g) 
+
+[ Site para pechinchar algumas peças](https://boadica.com.br/) segundo o Rapha 
+
+ Quer testar linhas de código de forma online vá para o [StackBlitz](https://stackblitz.com/run?file=index.html%3AL9) 
+
+ msinfo32 este cmd serve para mostrar as configurações do dispositivo windows 10. 
+
+ para melhorar a atividade das células cerebrais é recomendável ficar fazendo movimento 
+
+ de encolher e esticar os dedos do pé segundo hábitos Nikola Tesla antes de dormir 
+
+ ChipGenius para identificar se a quantidade de GB em um pendrive ou dispositivo. 
+
+ Para baixar OS do Google basta ter a extensão "utilitários de recup. do goolge chrome", insira um pendrive(8.00GB) e coloque o OS do "Chrome Flex" no navegador
+ Google Chrome.
+
+ Vá no Win + R se estiver no OS Windows e digite no executar "MRT" este é o antivírus nativo do Windows.
+
+ Os desenvolvedores de jogos se baseiam no solidos platonicos, em semelhança com a realidade visivel.

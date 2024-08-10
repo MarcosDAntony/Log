@@ -1,0 +1,12 @@
+<img src="https://github.com/MarcosAntony7/Daily7/blob/main/Recursos/Frameworks/Daily7/img/daily7-logo.png?raw=true" width="100px" height="100px"> <h1>Daily7</h1>
+
+! Sobre o uso </br>
+  > Neste site eu vou arquivar e utilizar no meu cotidiano, seja aprendizado de faculdades, concursos, graduações e indicação de projetos próprios, bem como uma biblioteca pessoal. Vai funcionar assim, eu vou usá-lo como uma bússola que aponta para 7 direções durante o dia. Possivelmente no futuro esta página se torne algo de utilidade pública pelos arquivos contidos nela ou o seu modelo de guardar dados de forma interativa.
+
+  > Este será usado no "Notebook Seven", "Lunix", e "Munin" que é o celular pois facilita os commits e a mobilidade das informações!
+
+
+! BackUp.
+
+ > Backup é feito a cada dia 1º do mês do "Daily7" aqui no "GitHub Oficial" e no "TeraBox", devido a ter muitos arquivos.
+

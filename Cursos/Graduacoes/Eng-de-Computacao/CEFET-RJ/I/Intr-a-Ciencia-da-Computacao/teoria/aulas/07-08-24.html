@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../../../../../../../../Recursos/Frameworks/Bootstrap/bootstrap-5.3.3-dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../../../../../../../Recursos/Frameworks/Daily7/css/principal-daily7.css">
+  <link rel="shortcut icon" href="../../../../../../../../Recursos/Frameworks/Daily7/img/favicon.ico" type="image/x-icon">
+  <title>Iº | Intr. a Ciência da Computação</title>
+</head>
+<body class="cor-de-fundo-do-daily7 cor-do-texto-daily7">
+
+<textarea style="width: 1900px; height: 900px;">
+    07-08-24
+    
+    Ultima lista de ICC dada pelo Prof.Rentodaro de Pseudolinguagem 
+
+    Questão 1) Corrigida 
+         registro REG_PESSOA {
+         caracter nome;
+         inteiro n, cep, cpf;
+         caracter sexo;
+         inteiro horas [5];
+         logico dependentes;
+     }
+   
+        REG_PESSOA Lista_Pessoas [50]
+         para i de 0 até 49 {
+         para j de 0 até 4{
+         Lista_Pessoas[i]. horas [j] = 0;
+      }
+      }
+   
+   =======================================================================================================
+   Questão 2) Corrigida 
+   Isto é a lógica da soma de vetores do MatLab/ Octave por sinal 
+      inteiro Soma (inteiro n, inteiro vet[n]) {
+      se (n =< 0) {
+      retorna vet[0] 
+      }
+      senão {
+      retorna vet[n-1] + vet (n-1, vet);
+     } 
+     }
+     
+   saída I: 
+     O usuário soma o vetor vet [2, 1, 7, 6], um array de 4 posições
+     isto será 16 + 0 como resultado, assumindo 'vet' como um valor inteiro imaginário
+     sem a necessidade de por uma leitura/ input de dado.
+   
+   Ex 1: 
+   Recapitulação de Funções.
+     inteiro Soma (inteiro n, inteiro vet [n]{
+     inteiro total 0 = , i;
+     para i de 0 até n-1 {
+     total = total + VET [i];
+     }  
+     retorna (total);
+     } 
+   
+    saida: X = Soma(5, V[5]); 
+    Toda recursividade deve ter um críterio de parada. 
+   
+   =====================================================================================================================
+   Questão 3) Corrigida 
+       inteiro S (inteiro N) {
+         retorna (1 + n) * n/2; 
+       nteiro sr (inteiro n) {
+         se n == 1 { retorna 1; senão retorna n + s (n-1); 
+        }
+    }   
+   
+   ======================================================================================================================================
+    O professor terminou de corrigir e começou a dizer algumas linguagens de programação que vamos aprender ou se desenvolver
+   nelas e a importância da pseudolinguagem em todas elas, sendo elas 
+   
+    > Interpretadas (Python, JavaScript, e etc)
+    > Compiladas (C e C++)
+   
+   
+</textarea>
+</body>
+</html>

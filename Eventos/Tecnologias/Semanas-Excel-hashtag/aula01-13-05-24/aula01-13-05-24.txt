@@ -1,0 +1,13 @@
+Aula 01 Semana do Excel - Do Zero à Analise de Dados  13-05-24
+
+Pontos interessantes:
+
+- Guias: Parte superior do amb.gráfico
+excel que apresenta as sessões de ferramentas.
+
+- Preenchimento Ralâmpago: Ctrl + Excel
+recurso existente a partir da v.2016
+
+- Ferramenta: Dados(Guia)
+
+- Tabela Dinâmica(Guia Inserir)

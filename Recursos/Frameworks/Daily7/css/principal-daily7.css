@@ -1,0 +1,65 @@
+/* Animação para fazer a imagem rotacionar no próprio eixo ao passar o mouse */
+@keyframes rotacao-de-tag {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.logo:hover {
+  animation: rotacao-de-tag 1.5s infinite;
+}
+
+@keyframes pulso-de-tag {
+  0% {
+    top: 0;
+  }
+
+  50% {
+    top: -10px;
+  }
+
+  100% {
+    top: 0;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+a:hover {
+  position: relative;
+  animation: pulso-de-tag 0.25 both alternate-reverse;
+}
+
+hr {
+  color: gold;
+}
+
+textarea {
+  background-color: rgb(46, 44, 44);
+  color: whitesmoke;
+  width:370px;
+  height:370px;
+  border: 0.7px solid gold;
+  padding: 10px;
+  resize: both;
+}
+
+.avisos-urgentes {
+  color: gold;
+}
+
+.cor-do-texto-daily7 {
+  color: white;
+}
+
+.cor-de-fundo-do-daily7{
+  background-color: rgba(0, 0, 0, 0.862);
+}
+

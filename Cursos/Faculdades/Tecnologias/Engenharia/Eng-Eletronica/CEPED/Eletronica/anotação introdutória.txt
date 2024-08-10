@@ -1,0 +1,76 @@
+Componentes:
+-Transitor(1952)
+-Alto-falante
+-Diodo
+-Capacitor
+-LED(Light Emitting Diode)
+-Resistor
+-Rele
+===============================
+Batéria: Fonte de dois polos que envia e recebe elétrons que por sua vez são negativos(-)
+
+*Volt: Palavra nomeada pelo nome do Físico Italiano, Alessandro Volta(1800) que criou a primeira batéria usando um tipo de metal e ácido.Tendo como achar seu valor seguindo tal formula V=A.Ω.(tensão)
+
+*Ohm: Caulcula a resistência média e total ou mínima de uma corrente elétrica.(Resistência).Sua formula é Ω= V/A
+
+*Ámperes: São descritos por serem a (Corrente).Sua formula é A=V/R
+
+==================================
+Instrumentos de Medição:
+
+Volt: Voltimêtro
+
+Ámpere: Ámperimêtro
+
+Ohms: Ohminimêtro(resistência da corrente)
+
+Farad: Mede o Capacitor ou microfards(1.000.000mF)
+
+Multímêtro: Responsavél por medir a unidade elétrica das outras anteriores.
+=================================
+Páginas Vistas:
+>Introdução
+4.6:45
+5.11:26
+6:15:36
+7.18:12
+8.
+9.
+10.
+11.
+12.
+13.(como criar uma corrente com resistor e LED)
+14.
+16.(Símbolos e Diagramas)
+===================================
+Placa de Testes:
+A Veroboard
+===================================
+Eletrônica pode ser Digital ou Analogicas>
+
+Digital: Utiliza pulso de elétricidade alto ou baixo.(Ex: Codigo Morse, Frequêcia=em HZ)
+
+Analogica: Utiliza correntes de tensões variáveis.
+===================================
+Codigo de Cores no Resistor:
+0 =Preto
+1 =Marrom
+2 =Vermelho
+3 =Laranja
+4 =Amarelo
+5 =Verde 
+6 =Azul
+7 =Violeta
+8 =Cinza
+9 =Branco
+
+GΩ   MΩ  KΩ  Ω
+000.000.000.000
+
+1º: cor de acordo com o respectivo número
+
+2º: põe a cor com respectivo número
+
+3º: quantidade de zeros a por de acordo com a cor.
+
+============================================

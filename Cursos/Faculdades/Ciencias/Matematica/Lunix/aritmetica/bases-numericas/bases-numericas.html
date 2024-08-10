@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"
+        href="../../../../../../../Recursos/Frameworks/Bootstrap/bootstrap-5.3.3-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../../../../../../Recursos/Frameworks/Daily7/css/principal-daily7.css">
+    <link rel="favicon" href="../../../../../../../Recursos/Frameworks/Daily7/img/favicon.ico">
+    <title>Matemática | 📓 Lunix</title>
+</head>
+<body class="cor-de-fundo-do-daily7 cor-do-texto-daily7">
+   <h1>* Bases Numericas *</h1>
+    <hr>
+
+    <p><b>* O que são Bases Numericas?</b> <br>
+        <ul>
+            &nbsp; É um assunto da aritmética que visa os sistemas de numeração pelos quais se
+            constrói uma determinada quantidade em cadeias de unidades e ordem superior a anterior <br> de forma
+            respectivamente
+            lógica, sendo os nomes das bases derivadas de seu sistema númerico.
+        </ul>
+    </p>
+
+    <b>* Notação Posicional</b>
+    <ul>
+
+    </ul>
+
+    <br><br>
+
+    <b>* Bases Numericas e suas conversões</b>
+    <ul>
+    <li><b>Base ()10 ou comumente chamada de (notação científica)</b> <br>
+     Números que vão de 0 a 9.
+            <br>
+<textarea>
+Ex:
+        
+    (2024)10
+
+    Poder ser calculado como:
+      2000(milhar) + 000(centena) + 20(dezena) + (4)unidade (2024)10
+        ou
+      por "notação posicional" que se aplica todos os outros exemplos:
+
+    2.10³ + 0.10² + 2.10¹ + 4.10^0 
+    2000 + 0 + 20 + 4 = (2024)10
+</textarea>
+           
+        </li>
+
+        <br><br>
+
+        <li><b>Base ()2 ou Binary Digit - Bit</b> <br>
+            Números que trabalham somente 0 e 1.
+
+            <br><br>A representação deles se da por uma tabela binária em relação a outros demais números que pode
+            servir estes mesmos numa ordem de
+            cima para baixo uma tabela verdade em lógica booleana a qual os computadores entendem como linguagem padrão.
+
+            <br>00 = 0
+            <br>01 = 1
+            <br>010 = 2
+            <br>011 = 3
+            <br>100 = 4
+            <br>101 = 5
+            <br>110 = 6
+            <br>111 = 7
+            <br>1000 = 8
+            <br>1001 = 9
+            <br>1010 = 10
+            <br>1100 = 11
+            <br>e assim por diante.
+
+            <br><br> O resultado de (010111)2 será dado por
+            <br>I. Fazer a notação posicional
+            <br>II cortar os 0 e por fim
+            <br>1.2^4 + 1.2² + 1.2¹ + 1.2^0
+            <br>16 + 4 + 2 + 1 = (23)10 o resultado será uma base decimal
+        </li>
+
+        <br><br>
+
+        <li><b>Base Octal ()8</b> <br>
+            Números trabalhados de 0 a 7.
+
+            <br>(371)8
+            <br>3.8² + 7.8¹ + 1.8^0
+            <br>192 + 56 + 1 (249)10. o resultado será uma base decimal
+
+        </li>
+
+        <br><br>
+
+        <li><b>Base Hexadecimal ()16</b> <br>
+            Números trabalhados de 0 a F (A = 10,B = 11,C = 12,D = 13,E = 14,F = 15).
+
+            <br><br>(1FA)16
+            <br>1.16² + 15.16¹ + 10.16^0
+            <br>256 + 250 + 10 (516)10 o resultado será uma base decimal
+
+
+        </li>
+    </ul>
+
+    <br><br>
+
+    <b>* Conversões de Bases específicas e inversas</b>
+    <ul>
+        <br>&nbsp;&nbsp;De ()10 para ()2, ()8, ou ()16 basta fazer a divisão pela base de destino () e terá como
+        resultado
+        o resto da direita para esquerda.
+
+        <br><br>
+
+        <br>&nbsp;&nbsp;Se for de outras bases para ()10 basta fazer a "notação posicional" de
+        suas bases n.n^posição da direita para a esquerda começando a potência em 0.
+    </ul>
+
+    <br><br>
+
+    <b>* Conversões de Bases com excessões</b>
+    <ul>
+        <br><br>(27)8 para ()2
+        <br>Basta transformar cada digito do ()8 para 3 digitos com respectivas potências
+        <br>pois para cada digito octal corresponde 3 binários.
+        <br>(010) + (111) (010111)2
+
+        <br><br>(001000101)2 para ()8
+        <br>Basta dividir em pequenos grupos de 3 digitos
+        <br>(001) (000) (101)
+        <br>1+ 0 + 5 (105)8
+
+        <br><br>(1101100)2 para ()16
+        <br>Basta separar em pequenos grupos de 4 digitos
+        <br>(0110) (1100) (6C)16
+
+        <br><br>(1B)16 para ()2
+        <br>Basta passar (1B)16 para ()10 por posicional e depois dividir 1.16¹+11.16^0 (27)10 pela base ()2 (11011)2
+
+        <br><br>(1B)16 para ()2
+        <br>Separe os dois termos onde 1(4 digitos)2 e B(a soma da potencia dos 4 digitos vai dar o valor alfanumerico)2
+        e depois junte tudo e elimine os 0 a esquerda, o resultado será (00011011)2 (11011)2 (1B)16.
+    </ul>
+
+    <p><b>* Fontes sobre o assunto</b>
+    <ul>
+        <li><a href="../">Curso em Vídeo</a></li>
+    </ul>
+    </p>
+
+    
+</body>
+</html>
