@@ -14,7 +14,7 @@ Bootstrap sets basic global display, typography, and link styles. When more cont
 - For a more inclusive and accessible type scale, we use the browser's default root `font-size` (typically 16px) so visitors can customize their browser defaults as needed.
 - Use the `$font-family-base`, `$font-size-base`, and `$line-height-base` attributes as our typographic base applied to the `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="100px" height="100px"> Daily7</h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="127px" height="127px"> Daily7</h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
         <span class="navbar-toggler-icon"></span>
@@ -43,7 +43,7 @@ Bootstrap sets basic global display, typography, and link styles. When more cont
 - Set the global link color via `$link-color`.
 - Use `$body-bg` to set a `background-color` on the `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="100px" height="100px"> Daily7</h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="127px" height="127px"> Daily7</h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
         <span class="navbar-toggler-icon"></span>

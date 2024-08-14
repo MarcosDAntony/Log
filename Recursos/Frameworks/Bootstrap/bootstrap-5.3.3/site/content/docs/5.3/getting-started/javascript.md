@@ -71,7 +71,7 @@ To fix this, you can use an `importmap` to resolve the arbitrary module names to
   </head>
   <nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="100px" height="100px"> Daily7</h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="127px" height="127px"> Daily7</h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
         <span class="navbar-toggler-icon"></span>
@@ -99,7 +99,7 @@ To fix this, you can use an `importmap` to resolve the arbitrary module names to
   <hr>
   <nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="100px" height="100px"> Daily7</h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="127px" height="127px"> Daily7</h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
         <span class="navbar-toggler-icon"></span>
@@ -357,7 +357,7 @@ Bootstrap does not officially support third-party JavaScript libraries like Prot
 
 Bootstrap will detect jQuery if `jQuery` is present in the `window` object and there is no `data-bs-no-jquery` attribute set on `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="100px" height="100px"> Daily7</h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="127px" height="127px"> Daily7</h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
         <span class="navbar-toggler-icon"></span>

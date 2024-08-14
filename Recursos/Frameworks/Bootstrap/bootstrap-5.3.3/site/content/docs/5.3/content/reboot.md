@@ -26,7 +26,7 @@ With v5.1.1, we standardized our required `@import`s across all our CSS bundles 
 
 For example, consider these `:root` CSS variables for common `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="100px" height="100px"> Daily7</h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="127px" height="127px"> Daily7</h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
         <span class="navbar-toggler-icon"></span>
@@ -73,7 +73,7 @@ Which allows you to make real-time customizations however you like:
 
 The `<html>` and `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="100px" height="100px"> Daily7</h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="127px" height="127px"> Daily7</h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
         <span class="navbar-toggler-icon"></span>
@@ -103,7 +103,7 @@ The `<html>` and `<nav class="navbar navbar-expand-lg">
 - The `box-sizing` is globally set on every element—including `*::before` and `*::after`, to `border-box`. This ensures that the declared width of element is never exceeded due to padding or border.
   - No base `font-size` is declared on the `<html>`, but `16px` is assumed (the browser default). `font-size: 1rem` is applied on the `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="100px" height="100px"> Daily7</h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="127px" height="127px"> Daily7</h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
         <span class="navbar-toggler-icon"></span>
@@ -131,7 +131,7 @@ The `<html>` and `<nav class="navbar navbar-expand-lg">
   <hr>` for easy responsive type-scaling via media queries while respecting user preferences and ensuring a more accessible approach. This browser default can be overridden by modifying the `$font-size-root` variable.
 - The `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="100px" height="100px"> Daily7</h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="127px" height="127px"> Daily7</h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
         <span class="navbar-toggler-icon"></span>
@@ -159,7 +159,7 @@ The `<html>` and `<nav class="navbar navbar-expand-lg">
   <hr>` also sets a global `font-family`, `font-weight`, `line-height`, and `color`. This is inherited later by some form elements to prevent font inconsistencies.
 - For safety, the `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="100px" height="100px"> Daily7</h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="127px" height="127px"> Daily7</h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
         <span class="navbar-toggler-icon"></span>
@@ -217,7 +217,7 @@ Note that because the font stack includes emoji fonts, many common symbol/dingba
 
 This `font-family` is applied to the `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="100px" height="100px"> Daily7</h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="127px" height="127px"> Daily7</h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
         <span class="navbar-toggler-icon"></span>
