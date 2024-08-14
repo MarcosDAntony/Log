@@ -15,7 +15,7 @@ Scrollspy toggles the `.active` class on anchor (`<a>`) elements when the elemen
       <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="127px" height="127px"> Daily7</h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
-        <span class="navbar-toggler-icon"></span>
+        <img src="../../Daily7/Recursos/Frameworks/Daily7/img/menu-responsivo.png" width="30">
       </button>
      
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
@@ -378,7 +378,7 @@ To easily add scrollspy behavior to your topbar navigation, add `data-bs-spy="sc
       <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily7/img/daily7-logo.png" class="logo" width="127px" height="127px"> Daily7</h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
-        <span class="navbar-toggler-icon"></span>
+        <img src="../../Daily7/Recursos/Frameworks/Daily7/img/menu-responsivo.png" width="30">
       </button>
      
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
