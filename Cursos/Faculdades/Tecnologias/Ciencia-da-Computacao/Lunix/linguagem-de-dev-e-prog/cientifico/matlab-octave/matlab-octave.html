@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../../../../../../../../Recursos/Frameworks/Bootstrap/bootstrap-5.3.3-dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../../../../../../../Recursos/Frameworks/Daily7/css/principal-daily7.css">
+  <link rel="shortcut icon" href="../../../../../../../../Recursos/Frameworks/Daily7/img/favicon.ico" type="image/x-icon">
+  <title>Ciência da Computação|📓 Lunix</title>
+</head>
+<body class="cor-de-fundo-do-daily7 cor-do-texto-daily7">
+ <h1>* <a href="../prog-dev-cientifico.html">Científica</a> * | ** <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/mathworks-logo-rev.20240807145759133.svg" width="270"></a> / <a href="https://octave.org" target="_blank"><img src="https://octave.org/img/octave-logo.png" width="100"></a> **</h1>
+ <hr>
+
+<p><b> * O que é MATLab/Octave?</b>
+<ul>
+    &nbsp; São linguagens de programação que visam a aplicação da ciência matemática com suas funções em essência, 
+    sendo ela uma linguagem interpretada possui um uso multiplataforma com compatibilidade entre as duas e em outros
+    dispositivos.
+</ul>
+</p>
+
+<br><br><br>
+
+<p><b>* Escopo de Sintaxe</b>
+<ul>
+    <li><a data-bs-toggle="collapse" href="#cmd-mathlab-octave" role="button" aria-expanded="false"><b>Comandos Base</b></a>
+        <ul class="collapse" id="cmd-mathlab-octave">
+           <p><b> > clear nomedavar / clearvars / all (Limpa a todas as variáveis da memória)</b></p>
+           <br>
+           <p><b> > clc ( Limpa a janela de comandos )</b></p>
+           <br>
+           <p><b> > close all ( Fecha todas as janelas gráficas )</b></p>
+           <br>
+           <p><b> > ; (impressão de ação executada em linha ou supressão)</b></p>
+           <br>
+           <p><b> > version ( Mostra a versão do pacote MathLab / Octave )</b></p>
+           <br>
+           <p><b> > format long / short (Regula o número de casas decimais sendo impressos ou guardados)</b></p>
+           <br>
+           <p><b> > disp (x) ( Imprime o conteúdo na tela )</b></p>
+
+        </ul>    
+    </li>
+
+    <br><br>
+
+    <li><a data-bs-toggle="collapse" href="#operadores-mathlab-octave" role="button" aria-expanded="false"><b>Operadores</b></a>
+        <ul class="collapse" id="operadores-mathlab-octave">
+            <p><b> > Atribuitivo (<- ou = )</b></p>
+            <br>
+            <p><b> > Aritmético ( + - * / ^ ) </b></p>
+            <br>
+            <p><b> > Relacional ( < > <= >= )</b></p>
+            <br>
+            <p><b> > Lógico ( == != !& | xor -> 0 (~) )</b></p>
+        </ul>    
+    </li>
+
+    <br><br>
+
+    <li><a data-bs-toggle="collapse" href="#func-mathlab-octave" role="button" aria-expanded="false"><b>Funções</b></a>
+        <ul class="collapse" id="func-mathlab-octave">
+            
+            <p><b> > Funções Base </b>
+             <ul>
+               - sqrt(x) ( Raiz quadrada de x)
+                <br>
+               - log(x)  (Logaritimo Natural de x, para modificar a base basta inserir um número antes do parenteses ex: log10(x) )
+                <br>
+               - factorial(x)  (Fatorial de x!)
+                <br>
+               - rem(x, y)  (O resto da divisão de x por y, % também faz a mesma coisa)
+                <br>
+               - abs(x)  (Valor absoluto ou módulo)
+                <br>
+               - round(x) (Arredonda um valor)
+                <br>
+               - fix(x) (Trunca um valor)
+                <br>
+               - floor(x) (Arrendonda ao inteiro inferior)
+                <br>
+               - ceil(x)  (Arrendonda ao inteiro superior)
+                <br>
+               - e^x == exp(x) (Elevar um número a constante de euler)
+                <br>
+               - tik e tok (Inicia e finaliza um contador que se atribuido a uma variavel pode ser feito de cronomêtro) 
+            </ul>
+
+            <br>
+
+            <p><b> > Funções Intermédiarias </b>
+            <ul>
+                - A = [ x, y, z; p, q , r] (Declaração de uma matriz, o ; encerra onde seria a linha, essa matriz no exemplo é 2x3)
+                <br>
+                - size(x) (Retorna o número de linhas e colunas de uma matriz x)
+                <br>
+                - size(x, 1) ou size(x, 2) (Retorna o número de linhas (1) ou o número de colunas (2))
+                <br>
+                - lenght(x) ( Retorna o maior comprimento da matriz x ou de um vetor x)
+                <br>
+                - eye(x) ( Cria uma matriz identidade de ordem x)
+                <br>
+                - trace(x) ( Soma os elementos da diagonal principal de um a matriz x)
+                <br>
+                - det(x) ( Retorna o determinante da matriz x)
+                <br>
+                - zeros(m, n) ( Cria uma matriz considerada nula em uma soma com m linhas e n colunas, somente zeros)
+                <br>
+                - ones(m, n) ( Cria uma matriz considerada nula em um produto com m linhas e m colunas → somente uns)
+                <br>
+                - A(x, y) ( Elemento de uma matriz A situado na linha x e coluna y)
+                <br>
+                - slicing A(x, 1:y) ( Pega uma fatia da matriz → linha x da coluna 1 até y → caso seja do inicio ao fim pode ser somente :)
+                <br>
+                - cat(1, A, B) ( Concatena (junta em determinada orientação) as matrizes A e B desde que possuam a mesma dimenção no sentido da concatenação → vertical(1, A, B) n de colunas igual → horizontal(2, A, B) n de linha igual)
+                <br>
+                - triu(A) ( Retorna a matriz triangular superior da matriz A )
+                <br>
+                - tril(A) ( Retorna a matriz triangular inferior da matriz A)
+            </ul>
+
+        </ul>    
+    </li>
+
+    <br><br>
+
+    <li><a data-bs-toggle="collapse" href="#estrut-mathlab-octave" role="button" aria-expanded="false"><b>Estruturas</b></a>
+        <ul class="collapse" id="estrut-mathlab-octave">
+
+        </ul>  
+    </li>
+</ul>
+</p>
+
+<br><br><br>
+
+<p><b>* Fontes de aprendizado</b>
+    <ul>
+        <li><a href="../../../../../../../Graduacoes/Eng-de-Computacao/CEFET-RJ/I/Intr-Engenharia/intr-engenharia.html"> <img src="../../../../../../../Graduacoes/graduacao-logo.png" width="70"> | <img src="https://www.cefet-rj.br/attachments/article/431/horiz_azul.png" width="170"> | <img src="../../../../../Engenharia/Eng-Computacao/eng-de-comp-emoji.png" width="70"> Engenharia de Computação</a></li>
+    </ul>
+</p>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+</body>
+</html>
+
+
+           
+ 
+
