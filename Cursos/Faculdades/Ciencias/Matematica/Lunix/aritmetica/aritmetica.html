@@ -29,7 +29,15 @@
       </ul>
     </div>
 
-<br><br>
+<br><br><br><br>
+
+
+
+
+
+
+
+
 
 
     <div><a data-bs-toggle="collapse" href="#operacoes-elementares" role="button" aria-expanded="false"><b>* Operações Elementares *</b></a>
@@ -49,9 +57,7 @@
    </ul>
    </div>
 
-
-
-   <br><br>
+<br><br><br><br>
 
 
 
@@ -71,7 +77,12 @@
  </ul>
     </div>
 
-<br><br>    
+<br><br><br><br>
+
+
+
+
+
 
 
 
@@ -84,7 +95,279 @@
       </ul>
     </div>
 
-<br><br>
+<br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div><a data-bs-toggle="collapse" href="#bases-numericas" role="button" aria-expanded="false"><b>* Bases Numéricas *</b></a>
+  <ul class="collapse" id="bases-numericas">
+
+  <br>
+  
+  <p><b>* </b>&nbsp; É um assunto da aritmética que visa os sistemas de numeração pelos quais se
+        constrói uma determinada quantidade em cadeias de unidades e ordem superior a anterior <br> de forma
+        respectivamente
+        lógica, sendo os nomes das bases derivadas de seu sistema númerico.
+
+       <br><br>
+
+        <div><a data-bs-toggle="collapse" href="#notacao-posicional" role="button" aria-expanded="false"><b>** Notação Posicional **</b></a>
+          <ul class="collapse" id="notacao-posicional">
+            <br>
+            <p><b>* </b> Esse conceito permite a conversão entre diferentes bases numéricas e a interpretação correta dos valores em qualquer
+            sistema de numeração posicional (base), como binário, octal, decimal, e hexadecimal. 
+            <br><br> 
+            
+            <b>| N = U . B ^ (P+1) + U . B ^ (P+1) + B ^ (P+1) + }...+ inf { + B ^ (P=0) |</b>
+            
+                    <br><br>
+            
+            N = Notação Posicional;
+            <br>
+            U = Valor do algarismo (unidade);
+            <br>
+            B = Base ( ( )? );
+            <br>
+            P = Posição (valor sempre será 0 da direita para esquerda +1);
+            </p>
+              
+      
+          
+          </ul>
+        </div>
+        
+        <br><br>        
+
+
+
+
+  <ul>
+    
+    <div class="container mt-5">
+    <div class="row">
+        <!-- Coluna para o base Binária -->
+          <div class="col-md-6">
+              <li><p><b>Base Binária ()2 ou Bit (Binary Digit)</b></p>
+                  <p>Números de 0 a 1 que comumente é a linguagem (sinal) padrão das máquinas.</p>
+                  <textarea rows="10">
+Tabela Binária
+_______________________________________________________________
+00 = 0                1111 = 15             11110 = 30
+01 = 1                10000 = 16            11111 = 31
+010 = 2               10001 = 17            100000 = 32
+011 = 3               10010 = 18            100001 = 33
+100 = 4               10011 = 19            100010 = 34
+101 = 5               10100 = 20            100011 = 35
+110 = 6               10101 = 21            100100 = 36
+111 = 7               10110 = 22            100101 = 37
+1000 = 8              10111 = 23            100110 = 38
+1001 = 9              11000 = 24            100111 = 39
+1010 = 10             11001 = 25            101000 = 40
+1011 = 11             11010 = 26            101001 = 41
+1100 = 12             11011 = 27            101010 = 42
+1101 = 13             11100 = 28            101011 = 43
+1110 = 14             11101 = 29            101100 = 44
+_______________________________________________________________
+  
+  
+  
+  Ex Iº  
+  ____________________________________________________________
+  (010111)2
+  
+  1.2^4 + 1.2² + 1.2¹ + 1.2^0
+  
+  16 + 4 + 2 + 1 = (23)10
+  ____________________________________________________________
+  
+  
+  
+  
+  
+  
+  Ex IIº  ( Macete )
+  ___________________________________________________________
+  
+  Some o resultado das potências da direita para esquerda
+   
+  8 + 4 + 2 + 1
+  --------------
+  (1  1  0  1)2
+  
+  1.2³ + 1.2² + 1.1^0
+  
+  8 + 4 + 1 = (13)10
+  ____________________________________________________________
+                  </textarea>
+              </li>
+          </div>
+  
+
+
+        <!-- Coluna para base Octal -->
+          <div class="col-md-6">
+              <li><p><b>Base Octal ()8</b></p>
+              <p>Números de 0 a 7.</p>
+              <textarea rows="10">
+(371)8
+3.8² + 7.8¹ + 1.8^0
+192 + 56 + 1 (249)10. o resultado será uma base decimal
+              </textarea>
+              </li>
+          </div>
+      </div>
+  </div>
+
+
+
+
+  <div class="container mt-5">
+    <div class="row">
+        <!-- Coluna para base Decimal -->
+        <div class="col-md-6">
+            <li><p><b>Base Decimal ()10 ou (Notação Científica)</b></p>
+                <p>Número de 0 a 9 comumente usada como base numérica padrão na aritmética.</p>
+                <textarea   rows="10">
+Tabela Decimal 
+_______________________________________________________________
+1        11        21      31    ...     ...   ...   ...   ...
+2        12        22      32
+3        13        23      33
+4        14        24      34
+5        15        25      35
+6        16        26      36
+7        17        27      37 
+8        18        28      38
+9        19        29      39
+10       20        30      40    50      60     70    80    90
+_______________________________________________________________
+
+
+
+Ex Iº
+_______________________________________________________________           
+(2024)10
+  
+Por Notação Posicional é possível obter as casas numéricas
+decimais.
+    
+2000(milhar) + 000(centena) + 20(dezena) + 4 (unidade)
+
+2.10³ + 0.10² + 2.10¹ + 4.10^0 
+    
+2000 + 0 + 20 + 4 = (2024)10      
+_______________________________________________________________ 
+                </textarea>
+            </li>
+        </div>
+
+        <!-- Coluna para base Hexadecimal -->
+        <div class="col-md-6">
+            <li><p><b>Base Hexadecimal ()16</b></p>
+                <p>....</p>
+                <textarea   rows="10">
+Números trabalhados de 0 a F (A = 10,B = 11,C = 12,D = 13,E = 14,F = 15).
+
+(1FA)16
+1.16² + 15.16¹ + 10.16^0
+256 + 250 + 10 (516)10 o resultado será uma base decimal  
+                </textarea>        
+            </li>
+        </div>
+    </div>
+</div>
+
+
+  </ul>
+  </p>  
+
+
+  <br><br>
+
+
+
+
+
+
+    <div><a data-bs-toggle="collapse" href="#conversao-de-base-numerica" role="button" aria-expanded="false"><b>** Conversões de Bases Numéricas **</b></a>
+     <ul class="collapse" id="conversao-de-base-numerica">
+     <br>
+
+     
+      <li><b> Conversões de Bases Específicas e Inversas</b>
+      <ul>
+          <br>&nbsp;&nbsp;De ()10 para ()2, ()8, ou ()16 basta fazer a divisão pela base de destino () e terá como
+          resultado
+          o resto da direita para esquerda.
+    
+          <br><br>
+    
+          <br>&nbsp;&nbsp;Se for de outras bases para ()10 basta fazer a "notação posicional" de
+          suas bases n.n^posição da direita para a esquerda começando a potência em 0.
+      </ul>
+      </li>
+
+      <br><br>
+    
+
+
+      <li><b> Conversões de Bases com Excessões</b>
+      <ul>
+          <br><br>(27)8 para ()2
+          <br>Basta transformar cada digito do ()8 para 3 digitos com respectivas potências
+          <br>pois para cada digito octal corresponde 3 binários.
+          <br>(010) + (111) (010111)2
+    
+          <br><br>(001000101)2 para ()8
+          <br>Basta dividir em pequenos grupos de 3 digitos
+          <br>(001) (000) (101)
+          <br>1+ 0 + 5 (105)8
+    
+          <br><br>(1101100)2 para ()16
+          <br>Basta separar em pequenos grupos de 4 digitos
+          <br>(0110) (1100) (6C)16
+    
+          <br><br>(1B)16 para ()2
+          <br>Basta passar (1B)16 para ()10 por posicional e depois dividir 1.16¹+11.16^0 (27)10 pela base ()2 (11011)2
+    
+          <br><br>(1B)16 para ()2
+          <br>Separe os dois termos onde 1(4 digitos)2 e B(a soma da potencia dos 4 digitos vai dar o valor alfanumerico)2
+          e depois junte tudo e elimine os 0 a esquerda, o resultado será (00011011)2 (11011)2 (1B)16.
+      </ul>
+      </li>
+
+     </ul>
+    </div>
+
+  <br><br>
+
+<p><b>* </b>Fontes sobre o assunto
+<ul>
+    <li><a href="https://www.cursoemvideo.com/curso/bases-numericas/" target="_blank">Curso em Vídeo | Bases Numéricas</a></li>
+</ul>
+</p>
+
+  </ul>
+    </div>
+
+<br><br><br><br>
+
+
+
+
+
+
 
 
 
@@ -94,7 +377,7 @@
       </ul>
     </div>
 
-<br><br>
+<br><br><br><br>
 
 
 
@@ -105,7 +388,7 @@
       </ul>
     </div>
 
-<br><br>
+<br><br><br><br>
 
 
     <div><a data-bs-toggle="collapse" href="#potencia-e-radiciacao" role="button" aria-expanded="false"><b>* Potência e Radiciação *</b></a>
@@ -113,7 +396,7 @@
       </ul>
     </div>
 
-<br><br>
+<br><br><br><br>
 
 
     <div><a data-bs-toggle="collapse" href="#razao-e-proporcao" role="button" aria-expanded="false"><b>* Razão e Proporção *</b></a>
@@ -121,7 +404,7 @@
       </ul>
     </div>
 
-<br><br>
+<br><br><br><br>
 
 
 
@@ -130,183 +413,7 @@
 
 
 
-    <div><a data-bs-toggle="collapse" href="#bases-numericas" role="button" aria-expanded="false"><b>* Bases Numéricas *</b></a>
-    <ul class="collapse" id="bases-numericas">
-
-    <br>
-    
-    <p><b>* </b>&nbsp; É um assunto da aritmética que visa os sistemas de numeração pelos quais se
-          constrói uma determinada quantidade em cadeias de unidades e ordem superior a anterior <br> de forma
-          respectivamente
-          lógica, sendo os nomes das bases derivadas de seu sistema númerico.
-    </p>
-
-    <br><br>
   
-      <div><a data-bs-toggle="collapse" href="#notacao-posicional" role="button" aria-expanded="false"><b>** Notação Posicional **</b></a>
-      <ul class="collapse" id="notacao-posicional">
-        <br>
-        <p><b>* </b> É um conceito de sistemas numéricos que permite com que se navegue pelas conversões das bases 
-        de acordo com o valor da sua base e posição em relação as outras pela fórmula 
-        <br><br> 
-        
-        <b>| N = U . B ^ (P+1) + U . B ^ (P-1) + B ^ (P-1) + ...+ inf + B ^ (P=0)|</b>
-        
-                <br><br>
-        
-        N = Base desejada para conversão;
-        <br>
-        U = Valor unitário;
-        <br>
-        B = Base;
-        <br>
-        P = Posição;
-        <br>
-        ! O valor da posição será considerado sempre 0 da direita para esquerda ! 
-        </p>
-          
-
-      
-      </ul>
-      </div>
-    
-    <br><br>
-
-      <div><a data-bs-toggle="collapse" href="#conversao-de-base-numerica" role="button" aria-expanded="false"><b>** Conversões de Base Numérica **</b></a>
-       <ul class="collapse" id="conversao-de-base-numerica">
-       <br>
-
-        <li><b>Base ()10 ou comumente chamada de (notação científica)</b> <br>
-          Números que vão de 0 a 9.
-                 <br>
-<textarea>
-  Ex:
-             
-  (2024)10
-
-  Poder ser calculado como:
-    2000(milhar) + 000(centena) + 20(dezena) + (4)unidade (2024)10
-      ou
-    por "notação posicional" que se aplica todos os outros exemplos:
-
-  2.10³ + 0.10² + 2.10¹ + 4.10^0 
-  2000 + 0 + 20 + 4 = (2024)10      
-</textarea>
-        </li>
-       
-        <br><br>
-       
-        <li><b>Base ()2 ou Binary Digit - Bit</b> <br>
-                 Números que trabalham somente 0 e 1.
-            <br>
-
-<textarea>
-  A representação deles se da por uma tabela binária em relação a outros
-demais números que pode servir estes mesmos numa ordem
-de cima para baixo uma tabela verdade em lógica booleana
-a qual os computadores entendem como linguagem padrão.
-
-00 = 0
-01 = 1
-010 = 2
-011 = 3
-100 = 4
-101 = 5
-110 = 6
-111 = 7
-1000 = 8
-1001 = 9
-1010 = 10
-1100 = 11
-e assim por diante.
-
-O resultado de (010111)2 será dado por
-I. Fazer a notação posicional
-II cortar os 0 e por fim
-1.2^4 + 1.2² + 1.2¹ + 1.2^0
-16 + 4 + 2 + 1 = (23)10 o resultado será uma base decimal
-</textarea>
-        </li>
-       
-        <br><br>
-       
-        <li><b>Base Octal ()8</b> 
-        <br>
-<textarea>
-  (371)8
-  3.8² + 7.8¹ + 1.8^0
-  192 + 56 + 1 (249)10. o resultado será uma base decimal
-</textarea>
-        </li>
-       
-        <br><br>
-       
-        <li><b>Base Hexadecimal ()16</b> 
-        <br>
-<textarea>
-  Números trabalhados de 0 a F (A = 10,B = 11,C = 12,D = 13,E = 14,F = 15).
-
-  (1FA)16
-  1.16² + 15.16¹ + 10.16^0
-  256 + 250 + 10 (516)10 o resultado será uma base decimal  
-</textarea>        
-        </li>
-
-        <br><br>
-
-        <li><b> Conversões de Bases Específicas e Inversas</b>
-        <ul>
-            <br>&nbsp;&nbsp;De ()10 para ()2, ()8, ou ()16 basta fazer a divisão pela base de destino () e terá como
-            resultado
-            o resto da direita para esquerda.
-      
-            <br><br>
-      
-            <br>&nbsp;&nbsp;Se for de outras bases para ()10 basta fazer a "notação posicional" de
-            suas bases n.n^posição da direita para a esquerda começando a potência em 0.
-        </ul>
-        </li>
-
-        <br><br>
-      
-        <li><b> Conversões de Bases com Excessões</b>
-        <ul>
-            <br><br>(27)8 para ()2
-            <br>Basta transformar cada digito do ()8 para 3 digitos com respectivas potências
-            <br>pois para cada digito octal corresponde 3 binários.
-            <br>(010) + (111) (010111)2
-      
-            <br><br>(001000101)2 para ()8
-            <br>Basta dividir em pequenos grupos de 3 digitos
-            <br>(001) (000) (101)
-            <br>1+ 0 + 5 (105)8
-      
-            <br><br>(1101100)2 para ()16
-            <br>Basta separar em pequenos grupos de 4 digitos
-            <br>(0110) (1100) (6C)16
-      
-            <br><br>(1B)16 para ()2
-            <br>Basta passar (1B)16 para ()10 por posicional e depois dividir 1.16¹+11.16^0 (27)10 pela base ()2 (11011)2
-      
-            <br><br>(1B)16 para ()2
-            <br>Separe os dois termos onde 1(4 digitos)2 e B(a soma da potencia dos 4 digitos vai dar o valor alfanumerico)2
-            e depois junte tudo e elimine os 0 a esquerda, o resultado será (00011011)2 (11011)2 (1B)16.
-        </ul>
-        </li>
-
-       </ul>
-      </div>
-
-    <br><br>
-
-  <p><b>* Fontes sobre o assunto</b>
-  <ul>
-      <li><a href="https://www.cursoemvideo.com/curso/bases-numericas/" target="_blank">Curso em Vídeo | Bases Numéricas</a></li>
-  </ul>
-  </p>
-
-    </ul>
-    </div>
 
       
 
