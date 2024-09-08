@@ -1,5 +1,5 @@
 CEFET/RJ - CAMPUS PETRÓPOLIS
-GRADUAÇÃO EM <img src="../../../eng-de-comp-emoji.png" width="100px" height="100px"> <img src="../../../eng-de-comp-emoji.png" width="100px" height="100px"> Eng. de Computação
+GRADUAÇÃO EM <img src="../../../../../Faculdades/Tecnologias/Engenharia/Eng-Computacao/eng-de-comp-emoji.png" width="100px" height="100px"> <img src="../../../../../Faculdades/Tecnologias/Engenharia/Eng-Computacao/eng-de-comp-emoji.png" width="100px" height="100px"> Eng. de Computação
 GCOM1001PE - Introdução à Engenharia
 PROF. RAFAEL SARAIVA CAMPOS
 SEMESTRE 2023/1 
