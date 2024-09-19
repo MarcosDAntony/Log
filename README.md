@@ -3,7 +3,8 @@
 ! Sobre </br>
   > Neste site eu vou arquivar e utilizar no meu cotidiano, seja aprendizado de faculdades, concursos, graduações e indicação de projetos próprios, bem como uma biblioteca pessoal. Vai funcionar assim, eu vou usá-lo como uma bússola que aponta para 7 direções durante o dia. Possivelmente no futuro esta página se torne algo de utilidade pública pelos arquivos contidos nela ou o seu modelo de guardar dados de forma interativa.
 
-! BackUp.
+! BackUp todo dia 1º do mês.
 
- > Backup é feito a cada dia 1º do mês do "Daily7" aqui no "GitHub Oficial" e no "TeraBox", devido a ter muitos arquivos.
+ > Aqui e no "TeraBox", devido a ter muitos arquivos.
 
+ > Para aproveitar faça isso também com o "Seven" no "HD de BackUp do Seven"
