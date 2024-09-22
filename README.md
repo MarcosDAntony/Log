@@ -7,4 +7,4 @@
 
  > Aqui e no "TeraBox", devido a ter muitos arquivos.
 
- > Para aproveitar faça isso também com o "Seven" no "HD de BackUp do Seven"
+ > Para aproveitar faça isso também com o "Lunix" e no "HD de BackUp do Lunix"
