@@ -4,7 +4,7 @@
 
  Use este comando no CMD Windows para descobrir a chave de ativação do product key "wmic path softwareLicensingService get OA3xOriginalProductKey"
 
- FiveServer funcionou bem para abrir o site do daily7 pelo codespaces
+ FiveServer funcionou bem para abrir o site do Daily pelo codespaces
 
  Para abrir um [localhost](http://localhost) por mobile coloque em algum navegador o 
 
