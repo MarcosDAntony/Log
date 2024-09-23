@@ -1038,7 +1038,7 @@ Via data attributes or JavaScript, the dropdown plugin toggles hidden content (d
 {{< callout info >}}
 On touch-enabled devices, opening a dropdown adds empty `mouseover` handlers to the immediate children of the `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily/img/Daily-logo.png" class="logo" width="127px"> </h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><h1 style="color: whitesmoke;"><img src="../Recursos/Frameworks/Daily/img/daily-logo.png" class="logo" width="127px"> </h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
         <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
