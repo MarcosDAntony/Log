@@ -11,6 +11,12 @@
 
 .logo:hover {
   animation: rotacao-de-tag 1.5s infinite;
+  border-radius: 100%;
+  box-shadow: 
+        0 0 5px #00a3e6, 
+        0 0 10px #00a3e6,
+        0 0 20px #00a3e6;
+  transition: box-shadow 0.3s ease-in-out; /* Suaviza a transição */
 }
 
 @keyframes pulso-de-tag {
@@ -32,10 +38,15 @@ a {
   color: whitesmoke;
 }
 
+a:hover{
+
+}
+
 a:hover {
   position: relative;
   animation: pulso-de-tag 0.25 both alternate-reverse;
 }
+
 
 hr {
   color: gold;
@@ -62,4 +73,5 @@ textarea {
 .cor-de-fundo-do-daily{
   background-color: rgba(0, 0, 0, 0.862);
 }
+
 
