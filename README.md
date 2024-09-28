@@ -5,6 +5,6 @@
 
 ! BackUp todo dia 1º do mês.
 
- > Aqui e no "TeraBox", devido a ter muitos arquivos.
+ > No "TeraBox", devido a ter muitos arquivos.
 
  > Para aproveitar faça isso também com o "Lunix" e no "HD de BackUp do Lunix"
