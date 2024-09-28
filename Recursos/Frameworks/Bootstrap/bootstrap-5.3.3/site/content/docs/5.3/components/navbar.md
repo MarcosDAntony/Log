@@ -41,7 +41,7 @@ Here's an example of all the sub-components included in a responsive light-theme
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+      <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -143,7 +143,7 @@ Please note that you should also add the `aria-current` attribute on the active 
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+      <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
@@ -172,7 +172,7 @@ And because we use classes for our navs, you can avoid the list-based approach e
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-      <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+      <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
@@ -193,7 +193,7 @@ You can also use dropdowns in your navbar. Dropdown menus require a wrapping ele
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-      <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+      <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
@@ -296,7 +296,7 @@ Mix and match with other components and utilities as needed.
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar w/ text</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-      <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+      <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
     </button>
     <div class="collapse navbar-collapse" id="navbarText">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -335,7 +335,7 @@ Navbar themes are easier than ever thanks to Bootstrap's combination of Sass and
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Navbar</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
-        <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+        <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
       </button>
       <div class="collapse navbar-collapse" id="navbarColor01">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -364,7 +364,7 @@ Navbar themes are easier than ever thanks to Bootstrap's combination of Sass and
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Navbar</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
-        <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+        <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
       </button>
       <div class="collapse navbar-collapse" id="navbarColor02">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -393,7 +393,7 @@ Navbar themes are easier than ever thanks to Bootstrap's combination of Sass and
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Navbar</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
-        <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+        <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
       </button>
       <div class="collapse navbar-collapse" id="navbarColor03">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -463,10 +463,10 @@ Use our [position utilities]({{< docsref "/utilities/position" >}}) to place nav
 
 Fixed navbars use `position: fixed`, meaning they're pulled from the normal flow of the DOM and may require custom CSS (e.g., `padding-top` on the `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/Daily/img/daily-logo.png" class="logo" width="127px"> </h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/LogPass/img/logpass-logo.png" class="logo" width="127px"> </h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
-        <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+        <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
       </button>
      
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
@@ -543,7 +543,7 @@ Here's an example navbar using `.navbar-nav-scroll` with `style="--bs-scroll-hei
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar scroll</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
-      <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+      <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
     </button>
     <div class="collapse navbar-collapse" id="navbarScroll">
       <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
@@ -593,7 +593,7 @@ With no `.navbar-brand` shown at the smallest breakpoint:
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-      <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+      <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
     </button>
     <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
       <a class="navbar-brand" href="#">Hidden brand</a>
@@ -624,7 +624,7 @@ With a brand name shown on the left and toggler on the right:
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-      <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+      <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
     </button>
     <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -653,7 +653,7 @@ With a toggler on the left and brand name on the right:
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
-      <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+      <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
     </button>
     <a class="navbar-brand" href="#">Navbar</a>
     <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
@@ -691,7 +691,7 @@ Sometimes you want to use the collapse plugin to trigger a container element for
 <nav class="navbar navbar-dark bg-dark">
   <div class="container-fluid">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-      <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+      <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
     </button>
   </div>
 </nav>
@@ -710,7 +710,7 @@ In the example below, to create an offcanvas navbar that is always collapsed acr
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Offcanvas navbar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
-      <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+      <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
     </button>
     <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
       <div class="offcanvas-header">
@@ -755,7 +755,7 @@ To create an offcanvas navbar that expands into a normal navbar at a specific br
 <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
   <a class="navbar-brand" href="#">Offcanvas navbar</a>
   <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarOffcanvasLg" aria-controls="navbarOffcanvasLg" aria-label="Toggle navigation">
-    <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+    <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
   </button>
   <div class="offcanvas offcanvas-end" tabindex="-1" id="navbarOffcanvasLg" aria-labelledby="navbarOffcanvasLgLabel">
     ...
@@ -770,7 +770,7 @@ When using offcanvas in a dark navbar, be aware that you may need to have a dark
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Offcanvas dark navbar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
-      <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+      <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
     </button>
     <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">
       <div class="offcanvas-header">

@@ -48,10 +48,10 @@ You can see the above requirements reflected in this modified RTL starter templa
   </head>
   <nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/Daily/img/daily-logo.png" class="logo" width="127px"> </h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/LogPass/img/logpass-logo.png" class="logo" width="127px"> </h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
-        <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+        <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
       </button>
      
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
@@ -76,10 +76,10 @@ You can see the above requirements reflected in this modified RTL starter templa
   <hr>
   <nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/Daily/img/daily-logo.png" class="logo" width="127px"> </h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/LogPass/img/logpass-logo.png" class="logo" width="127px"> </h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
-        <img src="../../Daily/Recursos/Frameworks/Daily/img/menu-responsivo.png" width="30">
+        <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
       </button>
      
       <div class="collapse navbar-collapse" id="navbarNavDropdown">

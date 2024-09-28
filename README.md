@@ -1,7 +1,7 @@
-<img src="https://github.com/MarcosAntony7/Daily/blob/main/Recursos/Frameworks/Daily/img/daily-logo.png?raw=true" width="100px"> <h1>Daily</h1>
+<img src="https://github.com/MarcosAntony7/LogPass/blob/main/Recursos/Frameworks/LogPass/img/logpass-logo.png?raw=true" width="100px"> <h1>LogPass</h1>
 
 ! Sobre </br>
-  > É um portal que eu vou arquivar e utilizar no meu cotidiano, seja aprendizado de faculdades, concursos, graduações e indicação de projetos próprios, bem como uma biblioteca pessoal. Vai funcionar assim, eu vou usá-lo como uma bússola que aponta para várias direções no cotidiano e poderá ser utilizada e modificada por outros.
+  > É uma plataforma que eu vou registrar e posicionar no meu cotidiano como uma bússola que aponta para várias direções conforme sessões de informações importantes no cotidiano e poderá ser utilizada e modificada pelo público.
 
 ! BackUp todo dia 1º do mês.
 
