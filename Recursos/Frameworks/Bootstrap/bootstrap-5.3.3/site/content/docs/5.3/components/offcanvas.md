@@ -83,10 +83,10 @@ You can use a link with the `href` attribute, or a button with the `data-bs-targ
 
 Scrolling the `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/LogPass/img/logpass-logo.png" class="logo" width="127px"> </h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/Log/img/log-logo.png" class="logo" width="127px"> </h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
-        <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
+        <img src="../../Log/Recursos/Frameworks/Log/img/menu-responsivo.png" width="30">
       </button>
      
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
@@ -110,10 +110,10 @@ Scrolling the `<nav class="navbar navbar-expand-lg">
   
   <hr>` element is disabled when an offcanvas and its backdrop are visible. Use the `data-bs-scroll` attribute to enable `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/LogPass/img/logpass-logo.png" class="logo" width="127px"> </h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/Log/img/log-logo.png" class="logo" width="127px"> </h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
-        <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
+        <img src="../../Log/Recursos/Frameworks/Log/img/menu-responsivo.png" width="30">
       </button>
      
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
@@ -155,10 +155,10 @@ Scrolling the `<nav class="navbar navbar-expand-lg">
 
 You can also enable `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/LogPass/img/logpass-logo.png" class="logo" width="127px"> </h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/Log/img/log-logo.png" class="logo" width="127px"> </h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
-        <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
+        <img src="../../Log/Recursos/Frameworks/Log/img/menu-responsivo.png" width="30">
       </button>
      
       <div class="collapse navbar-collapse" id="navbarNavDropdown">

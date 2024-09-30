@@ -341,10 +341,10 @@ For a complete list of changes, [see the v5.2.0 project on GitHub](https://githu
 
 - **Added new global `:root` CSS variables. —** Added several new CSS variables to the `:root` level for controlling `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/LogPass/img/logpass-logo.png" class="logo" width="127px"> </h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/Log/img/log-logo.png" class="logo" width="127px"> </h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
-        <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
+        <img src="../../Log/Recursos/Frameworks/Log/img/menu-responsivo.png" width="30">
       </button>
      
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
@@ -704,10 +704,10 @@ Want more information? [Read the v5.1.0 blog post.](https://blog.getbootstrap.co
 
 - Added new `.bg-body` class for quickly setting the `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/LogPass/img/logpass-logo.png" class="logo" width="127px"> </h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/Log/img/log-logo.png" class="logo" width="127px"> </h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
-        <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
+        <img src="../../Log/Recursos/Frameworks/Log/img/menu-responsivo.png" width="30">
       </button>
      
       <div class="collapse navbar-collapse" id="navbarNavDropdown">

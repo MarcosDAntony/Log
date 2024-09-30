@@ -377,7 +377,7 @@ And putting it to use in a navbar:
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDarkDropdown" aria-controls="navbarNavDarkDropdown" aria-expanded="false" aria-label="Toggle navigation">
-      <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
+      <img src="../../Log/Recursos/Frameworks/Log/img/menu-responsivo.png" width="30">
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
       <ul class="navbar-nav">
@@ -1038,10 +1038,10 @@ Via data attributes or JavaScript, the dropdown plugin toggles hidden content (d
 {{< callout info >}}
 On touch-enabled devices, opening a dropdown adds empty `mouseover` handlers to the immediate children of the `<nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/LogPass/img/logpass-logo.png" class="logo" width="127px"> </h1></a>
+      <a class="navbar-brand" href="../index.html" target="_self"><img src="../Recursos/Frameworks/Log/img/log-logo.png" class="logo" width="127px"> </h1></a>
      
       <button style="color: gold;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation ">
-        <img src="../../LogPass/Recursos/Frameworks/LogPass/img/menu-responsivo.png" width="30">
+        <img src="../../Log/Recursos/Frameworks/Log/img/menu-responsivo.png" width="30">
       </button>
      
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
