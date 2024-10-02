@@ -5,6 +5,4 @@
 
 ! BackUp todo dia 1º do mês.
 
- > No "TeraBox", devido a ter muitos arquivos.
-
- > Para aproveitar faça isso também com o "Nix" e no "HD de BackUp do Nix"
+ > Faça isso com o "Nix" e no "HD de BackUp do Nix"
