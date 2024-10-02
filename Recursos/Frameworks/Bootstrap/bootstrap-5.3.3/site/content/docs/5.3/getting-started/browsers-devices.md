@@ -71,9 +71,9 @@ Support for `overflow: hidden;` on the `<nav class="navbar navbar-expand-lg">
           
           <a class="nav-link active" style="color:  whitesmoke;" href="../Bibliotecas/bibliotecas.html"><img src="./Bibliotecas/bibliotecas-menu.png" width="25" height="25"> Bibliotecas</a>
 
-          <a class="nav-link active" style="color:  whitesmoke;" href="https://www.notion.so/Eventos-b1a427025da745cea823d85722bf861c?showMoveTo=true&saveParent=true" target="_blank"><img src="./Eventos/eveventos-menu.png" width="25" height="25"> Eventos</a>
+          <a class="nav-link active" style="color:  whitesmoke;" href="../Eventos/eventos-menu.png" target="_blank"><img src="./Eventos/eveventos-menu.png" width="25" height="25"> Eventos</a>
           
-          <a class="nav-link active" style="color:  whitesmoke;" href="https://www.notion.so/Projetos-ffd0c23313db4db7b379b2e958264f9c?showMoveTo=true&saveParent=true" target="_blank"><img src="./Projetos/projetos-menu.png" width="25" height="25"> Projetos</a>
+          <a class="nav-link active" style="color:  whitesmoke;" href="./Projetos/projetos.html" target="_blank"><img src="./Projetos/projetos-menu.png" width="25" height="25"> Projetos</a>
           
           <a class="nav-link active" style="color:  whitesmoke;" href="../Trabalhos/trabalhos.html"><img src="./Trabalhos/ttrabalhos-menu.png" width="25" height="25"> Trabalhos</a>
           
@@ -98,9 +98,9 @@ Support for `overflow: hidden;` on the `<nav class="navbar navbar-expand-lg">
           
           <a class="nav-link active" style="color:  whitesmoke;" href="../Bibliotecas/bibliotecas.html"><img src="./Bibliotecas/bibliotecas-menu.png" width="25" height="25"> Bibliotecas</a>
 
-          <a class="nav-link active" style="color:  whitesmoke;" href="https://www.notion.so/Eventos-b1a427025da745cea823d85722bf861c?showMoveTo=true&saveParent=true" target="_blank"><img src="./Eventos/eveventos-menu.png" width="25" height="25"> Eventos</a>
+          <a class="nav-link active" style="color:  whitesmoke;" href="../Eventos/eventos-menu.png" target="_blank"><img src="./Eventos/eveventos-menu.png" width="25" height="25"> Eventos</a>
           
-          <a class="nav-link active" style="color:  whitesmoke;" href="https://www.notion.so/Projetos-ffd0c23313db4db7b379b2e958264f9c?showMoveTo=true&saveParent=true" target="_blank"><img src="./Projetos/projetos-menu.png" width="25" height="25"> Projetos</a>
+          <a class="nav-link active" style="color:  whitesmoke;" href="./Projetos/projetos.html" target="_blank"><img src="./Projetos/projetos-menu.png" width="25" height="25"> Projetos</a>
           
           <a class="nav-link active" style="color:  whitesmoke;" href="../Trabalhos/trabalhos.html"><img src="./Trabalhos/ttrabalhos-menu.png" width="25" height="25"> Trabalhos</a>
           
@@ -129,9 +129,9 @@ As of iOS 9.2, while a modal is open, if the initial touch of a scroll gesture i
           
           <a class="nav-link active" style="color:  whitesmoke;" href="../Bibliotecas/bibliotecas.html"><img src="./Bibliotecas/bibliotecas-menu.png" width="25" height="25"> Bibliotecas</a>
 
-          <a class="nav-link active" style="color:  whitesmoke;" href="https://www.notion.so/Eventos-b1a427025da745cea823d85722bf861c?showMoveTo=true&saveParent=true" target="_blank"><img src="./Eventos/eveventos-menu.png" width="25" height="25"> Eventos</a>
+          <a class="nav-link active" style="color:  whitesmoke;" href="../Eventos/eventos-menu.png" target="_blank"><img src="./Eventos/eveventos-menu.png" width="25" height="25"> Eventos</a>
           
-          <a class="nav-link active" style="color:  whitesmoke;" href="https://www.notion.so/Projetos-ffd0c23313db4db7b379b2e958264f9c?showMoveTo=true&saveParent=true" target="_blank"><img src="./Projetos/projetos-menu.png" width="25" height="25"> Projetos</a>
+          <a class="nav-link active" style="color:  whitesmoke;" href="./Projetos/projetos.html" target="_blank"><img src="./Projetos/projetos-menu.png" width="25" height="25"> Projetos</a>
           
           <a class="nav-link active" style="color:  whitesmoke;" href="../Trabalhos/trabalhos.html"><img src="./Trabalhos/ttrabalhos-menu.png" width="25" height="25"> Trabalhos</a>
           
