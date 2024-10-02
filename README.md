@@ -3,6 +3,11 @@
 ! Sobre </br>
   > É uma plataforma que eu vou registrar e posicionar no meu cotidiano como uma bússola que aponta para várias direções conforme sessões de informações importantes no cotidiano e poderá ser utilizada e modificada pelo público.
 
-! BackUp todo dia 1º do mês.
+ <h4>! Aceito sugestões de pelos meus contatos:</h4>  
 
- > Faça isso com o "Nix" e no "HD de BackUp do Nix"
+  <a href="https://www.instagram.com/marcos__antony7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5521964986068" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%1000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+
+
