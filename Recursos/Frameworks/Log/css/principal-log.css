@@ -46,6 +46,10 @@ hr {
   color: gold;
 }
 
+em {
+  font-weight: bold;
+}
+
 textarea {
   background-color: rgb(46, 44, 44);
   color: whitesmoke;
