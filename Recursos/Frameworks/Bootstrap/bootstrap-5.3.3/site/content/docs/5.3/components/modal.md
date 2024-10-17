@@ -576,7 +576,7 @@ Be sure to add `aria-labelledby="..."`, referencing the modal title, to `.modal`
 
 ### Embedding YouTube videos
 
-Embedding YouTube videos in modals requires additional JavaScript not in Bootstrap to automatically stop playback and more. [See this helpful Stack Overflow post](https://stackoverflow.com/questions/18622508/bootstrap-3-and-youtube-in-modal) for more information.
+Embedding YouTube videos in modals requires additional JavaScript not in Bootstrap to automatically stop playback and more. [See this helpful Stack Overflow post](https://stackoverflow.com/questions/18622508/bootstrap-3-and-YouTube-in-modal) for more information.
 
 ## Optional sizes
 
